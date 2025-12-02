@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "大番狂せ",
+  "base_artist": "西月麗音",
+  "createdAt": "2025-12-02T03:40:51.831060Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "大番狂せ",
+      "artist": "西月麗音",
+      "has_synced": false,
+      "path": "select/pl_01_大番狂せ_西月麗音.txt"
+    }
+  ]
+}
